@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "71095449940",
+    "firebase_url": "https://fir-setup-7e6e0.firebaseio.com",
+    "project_id": "fir-setup-7e6e0",
+    "storage_bucket": "fir-setup-7e6e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71095449940:android:aedfa63dac41e6cc",
+        "android_client_info": {
+          "package_name": "com.kaank.androidlocationalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71095449940-asfukrf9l3lcujubpsukq344c1pppfuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaank.androidlocationalarm",
+            "certificate_hash": "c3e8eba88475b6d937c07161bf0ba6450b22ee75"
+          }
+        },
+        {
+          "client_id": "71095449940-r1po98cs2sncl5lssk9f9fj8gdmkc62t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDPDCPfMJk4GUfV3MZg1pXYebiZ68tuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71095449940-r1po98cs2sncl5lssk9f9fj8gdmkc62t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
